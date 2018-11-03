@@ -1,0 +1,11 @@
+{
+  "name": "address-book",
+  "version": "1.0.0",
+  "description": "An application to model an address book in node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Dean",
+  "license": "ISC"
+}
